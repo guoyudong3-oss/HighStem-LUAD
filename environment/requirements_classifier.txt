@@ -1,0 +1,9 @@
+# Python 3.12.12 (Fig. 6 classifier environment)
+scikit-learn==1.8.0
+shap==0.51.0
+numpy==2.4.3
+pandas==2.3.3
+scipy==1.17.1
+anndata==0.12.10
+matplotlib==3.10.8
+seaborn==0.13.2

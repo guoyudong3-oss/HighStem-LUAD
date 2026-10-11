@@ -1,0 +1,13 @@
+data/
+results/
+*.h5ad
+*.rds
+*.rda
+*.pkl
+*.mtx
+*.tsv.gz
+*.csv.gz
+.Rlibs/
+.venv*/
+__pycache__/
+.DS_Store
